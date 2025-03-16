@@ -2,6 +2,7 @@
 title: "Compensação Variável: Uma Análise Moderna e Diretrizes para Implementação"
 Date: 2025-02-13
 categories: cultura_organizacional
+comments: true
 ---
 # **Introdução**
 
